@@ -22,6 +22,7 @@ Sistema de controle de alunos:
 - Situação do aluno
 - Maior e menor média
 - Ranking do melhor para o pior
+- Menu cadatro alunos
 
 ## 🛠️ Tecnologias
 - Python
