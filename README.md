@@ -1,37 +1,30 @@
-# Estudos Python — Nível Básico
+# 📚 Estudos Python
 
-Este repositório contém exercícios de lógica de programação em Python, voltados para **iniciantes**.  
-Todos os exercícios foram criados e versionados usando **Git** e **GitHub**.
+Repositório com exercícios e atividades de fixação em Python.
 
-## Estrutura do projeto
+## 🧠 Conteúdos
 
-estudos_python/
-└── nivel_1_basico/
-    ├── 01_par_impar.py
-    ├── 02_maior_numero.py
-    ├── 03_calculadora.py
-    ├── 04_tabuada.py
-    └── 05_media.py
+### 🔹 Nível 1 - Básico
+- Entrada de dados
+- Condicionais (if/else)
+- Listas
 
-## Exercícios
+### 🔹 Nível 2 - Intermediário
+- Funções
+- Listas aninhadas
+- Cálculo de média
+- Ranking de alunos
 
-1. **01_par_impar.py**  
-   - Verifica se um número informado pelo usuário é **par ou ímpar**.
+## 🚀 Projeto em destaque
 
-2. **02_maior_numero.py**  
-   - Compara dois números e informa qual é o **maior**, ou se são iguais.
+Sistema de controle de alunos:
+- Cálculo de média
+- Situação do aluno
+- Maior e menor média
+- Ranking do melhor para o pior
 
-3. **03_calculadora.py**  
-   - Recebe dois números e uma operação (`+`, `-`, `*`, `/`) e mostra o resultado.  
-   - Valida operação e trata divisão por zero.
-
-4. **04_tabuada.py**  
-   - Mostra a tabuada de um número informado, de 1 até 10.
-
-5. **05_media.py**  
-   - Recebe 3 notas de um aluno, calcula a média e informa se está **aprovado** (média ≥ 7) ou **reprovado**.
-
-## Tecnologias usadas
-
+## 🛠️ Tecnologias
 - Python
-- Git / GitHub para versionamento
+
+## 👩‍💻 Autora
+Jenifer
