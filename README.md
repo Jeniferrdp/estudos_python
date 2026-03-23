@@ -14,6 +14,7 @@ Repositório com exercícios e atividades de fixação em Python.
 - Listas aninhadas
 - Cálculo de média
 - Ranking de alunos
+- Menu cadatro alunos
 
 ## 🚀 Projeto em destaque
 
@@ -22,7 +23,7 @@ Sistema de controle de alunos:
 - Situação do aluno
 - Maior e menor média
 - Ranking do melhor para o pior
-- Menu cadatro alunos
+
 
 ## 🛠️ Tecnologias
 - Python
