@@ -15,7 +15,7 @@ Repositório com exercícios e atividades de fixação em Python.
 - Cálculo de média
 - Ranking de alunos
 - Menu cadatro alunos
-- POO
+- Programação Orientada a Objeto
 
 ## 🛠️ Tecnologias
 - Python
