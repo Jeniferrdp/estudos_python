@@ -15,15 +15,7 @@ Repositório com exercícios e atividades de fixação em Python.
 - Cálculo de média
 - Ranking de alunos
 - Menu cadatro alunos
-
-## 🚀 Projeto em destaque
-
-Sistema de controle de alunos:
-- Cálculo de média
-- Situação do aluno
-- Maior e menor média
-- Ranking do melhor para o pior
-
+- POO
 
 ## 🛠️ Tecnologias
 - Python
